@@ -13,15 +13,15 @@
 
 <img src="https://github.com/LovelyEmma/data-analysis/blob/master/img/PowerQuery.JPG">
 
-<h2>Relationship</h2>
+<a name="Relationship"><h2>Relationship</h2></a>
 
 <img src="https://github.com/LovelyEmma/data-analysis/blob/master/img/Relationship.JPG">
 
-<h2>DAX Founction for the time table</h2>
+<a name="DAX Founction for the time table"><h2>DAX Founction for the time table</h2></a>
 
 <img src="https://github.com/LovelyEmma/data-analysis/blob/master/img/DAX.JPG">
 
-<h2>Measure for different requestment</h2>
+<a name="Measure for different requestment"><h2>Measure for different requestment</h2></a>
 
 <img src="https://github.com/LovelyEmma/data-analysis/blob/master/img/Measure.JPG">
 
