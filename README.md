@@ -23,6 +23,7 @@ Here is a summary of the key findings and analysis from the project:
     * Tina Lassila and Chris Gray had sales per square foot of \$13.98 and \$13.71, respectively.
     * In terms of total sales, Carlos Grilo had the highest old store sales at \$3.8M.
 * **Store Sales**: Winchester Fashions Direct had the highest sales per square foot among all stores, at \$21.22.
+<br> 
 <a href="https://github.com/LovelyEmma/data-analysis/blob/master/Retail%20Analysis.pbix">pbix download</a><br>
 <a href ="#Relationship">Relationship</a><br>
 <a href ="#DAX Founction for the time table">DAX Founction for the time table</a><br>
